@@ -22,7 +22,7 @@
 * (rrr) a ve b yığınlarının tüm elamanlarının bir konumun alta doğru kayması (rra ve rrb beraber çalışır).
 
 # Kurulum
-* git clone https://github.com/wwatkins42/42_C_Projects.git
-* cd ./42_C_Projects/Push_swap
+* git clone https://github.com/zehraarslan/Pushswap.git push_swap
+* cd ./push_swap
 * make
 * ./push_swap 4 2 5 1 8
