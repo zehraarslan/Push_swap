@@ -1,4 +1,4 @@
-# Pushswap
+# Push_swap
 * Bu proje, sınırlı bir talimat seti ve en az sayıda hamle ile verileri bir yığın üzerinde sıralamayı içerir.
  Bunu gerçekleştirmek için, çeşitli sıralama algoritmalarını manipüle etmeniz ve optimize edilmiş veri sıralama için en uygun çözüm(ler)i seçmeniz gerekecektir.
 
